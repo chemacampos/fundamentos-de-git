@@ -1,5 +1,6 @@
 Texto de prueba 1
 añado un Texto nuevo feature 2
 añado feature 3
-feature 4
+añado feature 4
 añadimos la feature 5
+feature 6
